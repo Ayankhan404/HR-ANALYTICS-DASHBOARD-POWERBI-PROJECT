@@ -1,4 +1,3 @@
-
 # HR-ANALYTICS-DASHBOARD-POWERBI-PROJECT
 
 HR analytics aim to provide insight into how best to manage employees and reach business goals. The objective is to monitor key HR metrics on employees and identify what factors impact attrition. The analysis is performed using a HR dataset for a software company called Atlas Labs.
@@ -10,6 +9,10 @@ Performance Tracker- job satisfaction, environment satisfaction, self rating, ma
 Attrition- attrition rate on the basis of tenure, overtime requirement, job role, etc.
 # Dashboard
 ![Screenshot 2023-07-23 172851](https://github.com/Ayankhan404/HR-ANALYTICS-DASHBOARD-POWERBI-PROJECT/assets/126284432/f5c24d29-440d-497d-afaf-001138282da7)
+![Screenshot 2023-07-23 173946](https://github.com/Ayankhan404/HR-ANALYTICS-DASHBOARD-POWERBI-PROJECT/assets/126284432/57cbff0a-2efb-4d88-9dc3-7798dc060b6f)
+![Screenshot 2023-07-23 174009](https://github.com/Ayankhan404/HR-ANALYTICS-DASHBOARD-POWERBI-PROJECT/assets/126284432/2dee77dd-85f0-4509-bca3-d4ff45b43ce8)
+
+
 
 
 
