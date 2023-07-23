@@ -7,3 +7,5 @@ Overview- total employees, active employees, inactive employees, attrition rate,
 Demographics- age, gender, ethnicity, seniority, etc.
 Performance Tracker- job satisfaction, environment satisfaction, self rating, manager rating, etc.
 Attrition- attrition rate on the basis of tenure, overtime requirement, job role, etc.
+
+C:\Users\foziya khan\OneDrive\Pictures\Screenshots
